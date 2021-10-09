@@ -7,7 +7,7 @@ return False
 for i in range(n, n//2+1):
   if n % i == 0:
     return False
- return True
+return True
   
   
 '''
